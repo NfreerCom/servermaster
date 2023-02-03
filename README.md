@@ -356,4 +356,3 @@ kubectl config set-context --current --namespace=nginx
 < cert-manager 설치>
 
 kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/v1.9.1/
-![image](https://user-images.githubusercontent.com/66663205/216630929-307445c6-50d7-4b36-9106-d464d92aa211.png)
